@@ -5,6 +5,7 @@ langchain-huggingface
 langchain-text-splitters
 
 chromadb
+faiss-cpu
 
 pypdf
 
